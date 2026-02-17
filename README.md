@@ -1,1 +1,1 @@
-![Partakithware](./PW_v2.png)
+![Partakithware](./PW_v3.png)
